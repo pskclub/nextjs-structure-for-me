@@ -1,1 +1,8 @@
-nextjs-structure-for-me
+**nextjs-structure-for-me**
+
+scss
+redux
+styled component 
+.env
+express
+
